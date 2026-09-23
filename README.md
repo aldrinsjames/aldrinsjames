@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Aldrin 👋
 
-<!--
-**aldrinsjames/aldrinsjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering student exploring engineering, programming, and technology.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Mechanical Engineering student
+- 💻 Exploring Python and programming
+- ⚙️ Interested in engineering and technology
+- 📚 Building my technical skills through projects and continuous learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Skills & Tools
+- Python
+- Java
+- Git & GitHub
+- Mechanical Engineering fundamentals
+
+## Currently Exploring
+- C / C++
+- SolidWorks
+- ANSYS
+
+- ## Currently Learning
+- 🐍 Python programming
+- ⚙️ Thermodynamics and core Mechanical Engineering
+- 💻 Programming and problem solving
+- 🛠️ Engineering software and CAD
+
+- ## Goals
+- Build strong foundations in Mechanical Engineering
+- Develop practical programming and problem-solving skills
+- Work on engineering and technology projects
+- Continuously learn and improve
+
+- ## Skills
+* Python
+* Java
+* C/C++
+* ANSYS
+* SolidWorks
+* Piano
+* Violin
+
+## Connect With Me
+* LinkedIn: https://www.linkedin.com/in/aldrin-s-james-2a2550428?utm_source=share_via&utm_content=profile&utm_medium=member_ios
